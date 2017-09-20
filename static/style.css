@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Safety;
+    src: url("safety/SafetyMedium.otf");
+}
+
+body {
+    color: #161B20;
+    font-family: Safety;
+    font-size: 17px;
+}
+
+section {
+    margin: 0 auto;
+    max-width: 800px;
+    line-height: 150%;
+}
+
+a {
+    color: #3299bb;
+}
+
+p {
+    padding: 7px;
+}
+
+header img {
+    display: block;
+    margin: 47px auto 35px auto;
+    width: 200px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
