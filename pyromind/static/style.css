@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "Imagine";
+    src: url('imagine_font/imagine_font.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Calibri";
+    src: url('Calibri.ttf') format("truetype");
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    height: 240px;
+    background: url('header_back.png') 0 -118px;
+    background-size: cover;
+    text-align: center;
+}
+
+header img {
+    margin: 50px auto;
+    height: 140px;
+}
+
+h1 {
+    font-family: "Imagine", sans-serif;
+    font-weight: normal;
+    color: #FF2B00;
+    background: white;
+    width: 700px;
+    text-align: center;
+    position: relative;
+    margin: -16px auto;
+}
+
+.heading-line {
+    margin-top: 40px;
+    border-top: solid #22B8B9 12px;
+}
+
+.trailer {
+    margin: 60px auto 0 auto;
+    width: 800px;
+}
+
+.buttons {
+    width: 380px;
+    margin: 40px auto 30px auto;
+}
+
+.buttons a img {
+    width: 380px;
+}
+
+.awards {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.awards img {
+    width: 120px;
+    margin: 0 20px;
+}
+
+footer {
+    margin: 40px 0 20px 0;
+    font-family: "Calibri";
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: #22B8B9;
+    margin: 0 20px;
+}
