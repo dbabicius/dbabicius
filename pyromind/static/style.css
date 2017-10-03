@@ -10,6 +10,7 @@
 
 body {
     margin: 0;
+    background: #F0F0F0;
 }
 
 header {
@@ -28,7 +29,7 @@ h1 {
     font-family: "Imagine", sans-serif;
     font-weight: normal;
     color: #FF2B00;
-    background: white;
+    background: #F0F0F0;
     width: 700px;
     text-align: center;
     position: relative;
@@ -43,6 +44,8 @@ h1 {
 .trailer {
     margin: 60px auto 0 auto;
     width: 800px;
+    height: 450px;
+    border: #22B8B9 4px;
 }
 
 .buttons {
