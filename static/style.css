@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Safety;
-    src: url("safety/SafetyMedium.otf");
+    font-family: Inconsolata;
+    src: url("static/Inconsolata-Regular.ttf");
 }
 
 body {
