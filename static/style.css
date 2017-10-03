@@ -1,11 +1,11 @@
 @font-face {
-    font-family: Inconsolata;
-    src: url("static/Inconsolata-Regular.ttf");
+    font-family: 'Inconsolata';
+    src: url('static/Inconsolata-Regular.ttf') format('truetype');
 }
 
 body {
     color: #161B20;
-    font-family: Safety;
+    font-family: 'Inconsolata';
     font-size: 17px;
 }
 
