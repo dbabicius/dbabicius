@@ -45,7 +45,7 @@ h1 {
     margin: 60px auto 0 auto;
     width: 800px;
     height: 450px;
-    border: #22B8B9 4px;
+    border: solid #22B8B9 4px;
 }
 
 .buttons {
